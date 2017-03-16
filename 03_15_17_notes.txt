@@ -1,0 +1,12 @@
+csv stands for comma separated value
+
+csv's delimiter is comma (,) and can be exchanged with a pipe (|)
+
+id|name|release_date 
+
+ETL: extract transformed load 
+
+TRUNCATE TABLE (Transact-SQL) Removes all rows from a table or specified partitions of a table, without logging the individual row deletions. TRUNCATE TABLE is similar to the DELETE statement with no WHERE clause; however, TRUNCATE TABLE is faster and uses fewer system and transaction log resources.
+
+TRUNCATE friends IF EXISTS;
+DROP TABLE friends;

@@ -1,4 +1,5 @@
-query_project.sql
+
+#@todo: make table and insert records to run all the commands
 
 #Return all of the unique years in the movies table
 SELECT DISTINCT year FROM movies;
